@@ -13,7 +13,7 @@ int main ()
 
     Założenia:
         Jeżeli a=0 to:
-            Jeżeli b=0 to: jest nieskończenie wiele rowziąań (0=0x+0 => 0=0)
+            Jeżeli b=0  to: jest nieskończenie wiele rowziąań (0=0x+0 => 0=0)
             Jeżeli b!=0 to: brak rozwiązań (x=-b/0 NIE MOŻNA DZIELIĆ PRZEZ 0)
     */
     int a,b;
