@@ -16,7 +16,7 @@ int main ()
                 *gdzie vDelta oznacza pierwiastek z delta
             Jeżeli Delta=0 to: Jedno miejce zerowe [x0 = -b/2a]
             Jeżeli Delta<0 to: nie ma miejsc zerowych
-        [gdy a jest równe 0 mamy doczynienia z funkcją liniową (0x2 + bx + c = bx + c)]
+        [gdy a jest równe 0 to mamy doczynienia z funkcją liniową (0x2 + bx + c = bx + c)]
     */
     float a,b,c,D; //D to delta
     cin>>a>>b>>c;
